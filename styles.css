@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#container {
+  width: 800px;
+  height: 800px;
+  border: 2px solid black;
+  margin: 4% auto 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* .squareDiv {
+  border: 2px solid black;
+} */
